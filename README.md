@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone [<your-repository-url>](https://github.com/KevinDo2801/blog-app-cvv.git)
+git clone https://github.com/KevinDo2801/blog-app-cvv.git
 cd blogappcv
 ```
 
